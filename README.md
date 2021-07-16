@@ -1,2 +1,2 @@
 # irls-cdn
-jsd加速css/js
+jsd加速css/js 表情资源
